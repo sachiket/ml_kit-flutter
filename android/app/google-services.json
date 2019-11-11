@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "504526345487",
+    "firebase_url": "https://aikit-flutter.firebaseio.com",
+    "project_id": "aikit-flutter",
+    "storage_bucket": "aikit-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504526345487:android:79a1d7940f366513d55a7a",
+        "android_client_info": {
+          "package_name": "com.example.ml_kit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504526345487-ui8ga162o93k9pi9c1o5uivq64fo3jlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAibVhf2gKQ9zby2QhDiOaam6V5EnM_-6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504526345487-ui8ga162o93k9pi9c1o5uivq64fo3jlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504526345487:android:1ffa3b496826d50ad55a7a",
+        "android_client_info": {
+          "package_name": "com.mlproject.ai_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504526345487-ui8ga162o93k9pi9c1o5uivq64fo3jlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAibVhf2gKQ9zby2QhDiOaam6V5EnM_-6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504526345487-ui8ga162o93k9pi9c1o5uivq64fo3jlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
