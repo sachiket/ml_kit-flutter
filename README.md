@@ -1,4 +1,4 @@
-# ml_kit_app
+# ml_kit
 
 A new Flutter project.
 
